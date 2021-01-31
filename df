@@ -1,0 +1,43 @@
+[33mcommit 654e5e41ff14e9d10f3c2d720da194ee687cb37d[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: hyuna <hyunawon417@gmail.com>
+Date:   Sun Jan 31 19:30:49 2021 +0900
+
+    Add one function
+    
+    calculator.py supports 3 functions now
+
+[33mcommit a5fa8c90fe6ac14488a1a2a3e1c2139d69c2b00d[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: wonhyuna <68580694+wonhyuna@users.noreply.github.com>
+Date:   Sun Jan 31 14:05:15 2021 +0900
+
+    Make README.md look nice
+
+[33mcommit 45a0b90a4fbd19cf04869ac3aa9d8d732a4ab031[m
+Author: wonhyuna <68580694+wonhyuna@users.noreply.github.com>
+Date:   Sun Jan 31 13:33:40 2021 +0900
+
+    Add the info of calculator.py in README.md
+
+[33mcommit 6a391e9106cc40da456bf09af564912e773e1b47[m
+Author: hyuna <hyunawon417@gmail.com>
+Date:   Sun Jan 31 13:29:41 2021 +0900
+
+    Add 'github study'
+
+[33mcommit ea73e48feffb980b79fd4a03fb34b450de8890fb[m
+Author: hyuna <hyunawon417@gmail.com>
+Date:   Sun Jan 31 13:27:52 2021 +0900
+
+    Create README.md
+
+[33mcommit a267613d4bbc020d282e9066de846a8675c9e0b9[m
+Author: hyuna <hyunawon417@gmail.com>
+Date:   Sun Jan 31 00:41:35 2021 +0900
+
+    Add title comment and Create meeting-log
+
+[33mcommit afc67999e2c03a2568856db54301f26081cb2d99[m
+Author: hyuna <hyunawon417@gmail.com>
+Date:   Sun Jan 31 00:23:37 2021 +0900
+
+    Create calculator.py and License
